@@ -1,0 +1,35 @@
+Created on: Sun Apr 30 07:36:08 2017
+
+\\beginning of file\\
+Words | Count  | Line Numbers
+    a |     1x | 37
+   aa |     3x | 35, 36, 38
+    b |     1x | 34
+   cc |     1x | 33
+    d |     1x | 32
+   dd |     2x | 20, 31
+    e |     1x | 30
+    f |     1x | 29
+  f!j |     1x | 25
+    g |     1x | 28
+    h |     1x | 27
+    i |     1x | 26
+    k |     1x | 24
+    l |     1x | 23
+    m |     3x | 17, 18, 22
+    n |     1x | 16
+    o |     1x | 15
+    p |     1x | 14
+    q |     1x | 13
+    r |     1x | 12
+    s |     1x | 11
+    t |     1x | 10
+    u |     1x | 9
+    v |     1x | 8
+v!vvv |     1x | 7
+ vvvv |     1x | 6
+    w |     1x | 5
+    x |     1x | 4
+    y |     1x | 3
+    z |     1x | 2
+\\end of file\\

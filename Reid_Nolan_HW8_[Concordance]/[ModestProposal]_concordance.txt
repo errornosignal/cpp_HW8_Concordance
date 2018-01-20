@@ -1,0 +1,1949 @@
+Created on: Sun Apr 30 07:01:41 2017
+
+\\beginning of file\\
+Words                               | Count  | Line Numbers
+                                  1 |     2x | 417, 683
+                                1.a |     1x | 420
+                                1.b |     1x | 431
+                                1.c |     2x | 436, 441
+                                1.d |     1x | 457
+                                1.e |     2x | 439, 467
+                              1.e.1 |     5x | 469, 487, 494, 505, 519
+                              1.e.2 |     1x | 481
+                              1.e.3 |     1x | 492
+                              1.e.4 |     1x | 499
+                              1.e.5 |     1x | 503
+                              1.e.6 |     1x | 509
+                              1.e.7 |     3x | 488, 494, 521
+                              1.e.8 |     4x | 429, 489, 523, 525
+                              1.e.9 |     3x | 490, 523, 558
+                                1.f |     1x | 565
+                              1.f.1 |     1x | 567
+                              1.f.2 |     1x | 578
+                              1.f.3 |     4x | 550, 579, 592, 606
+                              1.f.4 |     1x | 605
+                              1.f.5 |     1x | 610
+                              1.f.6 |     1x | 618
+                               1080 |     1x | 16
+                           1080.txt |     1x | 376
+                           1080.zip |     1x | 376
+                                 12 |     1x | 144
+                               1500 |     1x | 664
+                               1729 |     2x | 12, 42
+                               1997 |     1x | 17
+                                  2 |     1x | 630
+                                 20 |     1x | 529
+                               2001 |     1x | 641
+                               2008 |     1x | 16
+                                 27 |     1x | 16
+                                 28 |     1x | 145
+                                  3 |     3x | 563, 645, 649
+                                 30 |     1x | 543
+                                  4 |     3x | 539, 645, 675
+                               4557 |     1x | 661
+                                  5 |     1x | 710
+                              5,000 |     1x | 683
+                                 50 |     1x | 687
+                           501(c)(3 |     2x | 653, 656
+                           596-1887 |     1x | 664
+                                 60 |     1x | 535
+                         64-6221541 |     1x | 656
+                                801 |     1x | 664
+                                809 |     1x | 664
+                              84116 |     1x | 664
+                                 90 |     2x | 552, 593
+                              99712 |     1x | 662
+                                  a |   149x | 1, 9, 11, 22, 33, 35, 46, 59, 60, 62, 
+                                               65, 66, 73, 74, 78, 78, 91, 104, 108, 110, 
+                                               113, 113, 115, 123, 124, 124, 124, 126, 127, 133, 
+                                               136, 139, 139, 141, 141, 144, 144, 145, 153, 153, 
+                                               154, 161, 164, 167, 181, 181, 183, 187, 190, 190, 
+                                               196, 198, 199, 204, 208, 208, 214, 215, 218, 225, 
+                                               226, 238, 244, 245, 250, 251, 265, 269, 272, 279, 
+                                               279, 286, 287, 287, 305, 309, 314, 316, 317, 333, 
+                                               333, 334, 340, 343, 344, 345, 351, 352, 353, 365, 
+                                               372, 374, 386, 392, 426, 426, 426, 428, 431, 433, 
+                                               436, 442, 446, 459, 471, 482, 485, 500, 512, 512, 
+                                               515, 516, 516, 516, 516, 521, 525, 529, 542, 542, 
+                                               545, 546, 550, 551, 551, 551, 558, 558, 573, 574, 
+                                               574, 581, 592, 594, 594, 596, 598, 598, 600, 601, 
+                                               602, 625, 642, 652, 688, 705, 714, 716, 721
+                              abide |     1x | 423
+                               able |     4x | 50, 67, 93, 342
+                          abortions |     1x | 84
+                              about |    13x | 91, 155, 163, 218, 294, 539, 630, 644, 649, 675, 
+                                               710, 729, 732
+                              above |     4x | 75, 109, 115, 205
+                             abroad |     1x | 214
+                            absence |     1x | 239
+                          absentees |     1x | 305
+                             accept |     1x | 422
+                           accepted |     2x | 700, 705
+                          accepting |     1x | 697
+                             access |    10x | 426, 438, 450, 470, 485, 506, 511, 521, 526, 547
+                           accessed |     1x | 473
+                         accessible |     1x | 681
+                           accident |     1x | 97
+                       accidentally |     1x | 227
+                         accordance |     2x | 550, 620
+                            account |     1x | 116
+                       acquaintance |     2x | 123, 192
+                             acting |     1x | 312
+                             active |     2x | 469, 506
+                             actual |     1x | 588
+                             adding |     1x | 346
+                           addition |     2x | 281, 460
+                         additional |     5x | 59, 494, 495, 515, 669
+                          additions |     1x | 626
+                            address |     1x | 539
+                          addresses |     1x | 705
+                          admirable |     1x | 174
+                              admit |     1x | 333
+                           advanced |     1x | 340
+                          advancing |     1x | 362
+                          advantage |     3x | 83, 158, 239
+                         advantages |     2x | 232, 281
+                           advising |     1x | 137
+                            affairs |     1x | 101
+                              after |     4x | 153, 156, 259, 337
+                              again |     1x | 96
+                            against |     4x | 200, 241, 298, 697
+                                age |     4x | 66, 110, 114, 186
+                               aged |     1x | 219
+                              agent |     1x | 619
+                                ago |     1x | 205
+                              agree |     9x | 412, 421, 423, 427, 433, 544, 584, 586, 618
+                             agreed |     2x | 56, 533
+                          agreement |    18x | 423, 424, 428, 433, 435, 437, 452, 453, 460, 555, 
+                                               560, 582, 587, 612, 613, 613, 616, 621
+                        agriculture |     1x | 103
+                                 ak |     1x | 662
+                               alas |     1x | 85
+                              alive |     2x | 178, 189
+                                all |    27x | 49, 51, 56, 101, 162, 252, 264, 269, 337, 377, 
+                                               412, 422, 423, 425, 443, 448, 467, 496, 546, 547, 
+                                               547, 555, 582, 623, 636, 687, 720
+                              allow |     2x | 132, 610
+                             almost |     3x | 4, 225, 477
+                               alms |     1x | 50
+                              alone |     2x | 140, 702
+                            already |     7x | 100, 130, 149, 161, 235, 245, 531
+                               also |     2x | 457, 602
+                         alteration |     1x | 626
+                          alternate |     1x | 518
+                           although |     5x | 93, 106, 178, 198, 334
+                         altogether |     1x | 191
+                             always |     3x | 72, 137, 200
+                                 am |     3x | 113, 221, 337
+                           american |     2x | 123, 191
+                              among |     6x | 85, 159, 168, 254, 274, 284
+                                 an |    17x | 27, 50, 95, 98, 139, 154, 209, 221, 241, 248, 
+                                               274, 350, 380, 432, 444, 481, 492
+                                and |   184x | 3, 11, 36, 47, 49, 58, 59, 60, 61, 65, 
+                                               71, 77, 79, 80, 84, 87, 87, 91, 95, 98, 
+                                               100, 114, 115, 117, 125, 126, 130, 132, 136, 138, 
+                                               140, 141, 145, 148, 153, 153, 158, 162, 163, 168, 
+                                               169, 174, 177, 178, 181, 185, 188, 188, 190, 193, 
+                                               194, 194, 197, 205, 208, 210, 214, 215, 219, 223, 
+                                               223, 223, 223, 224, 225, 228, 228, 231, 232, 237, 
+                                               241, 244, 245, 245, 249, 253, 254, 263, 265, 270, 
+                                               271, 283, 288, 293, 294, 300, 303, 307, 307, 309, 
+                                               310, 311, 312, 315, 317, 319, 319, 321, 323, 325, 
+                                               328, 330, 330, 331, 333, 339, 340, 342, 343, 343, 
+                                               347, 348, 349, 352, 357, 363, 365, 377, 387, 387, 
+                                               388, 390, 391, 392, 396, 397, 397, 417, 422, 422, 
+                                               424, 427, 438, 445, 476, 484, 488, 493, 494, 509, 
+                                               537, 547, 547, 552, 561, 567, 568, 571, 581, 583, 
+                                               587, 618, 621, 622, 623, 627, 634, 635, 638, 640, 
+                                               643, 643, 645, 645, 645, 646, 654, 659, 662, 665, 
+                                               666, 671, 678, 679, 680, 687, 688, 689, 689, 695, 
+                                               705, 706, 715, 731
+                        animosities |     1x | 312
+                             annual |     1x | 273
+                           annually |     2x | 99, 294
+                              annum |     4x | 163, 250, 251, 258
+                          anonymous |     2x | 27, 380
+                            another |     3x | 83, 169, 313
+                             answer |     2x | 195, 350
+                                any |    44x | 200, 206, 227, 253, 287, 312, 338, 395, 411, 411, 
+                                               420, 432, 462, 464, 464, 471, 471, 484, 494, 500, 
+                                               501, 504, 509, 510, 518, 522, 542, 550, 581, 587, 
+                                               594, 607, 608, 612, 615, 619, 621, 624, 625, 626, 
+                                               627, 692, 701, 722
+                             anyone |     5x | 3, 476, 484, 619, 715
+                           anything |     2x | 394, 398
+                           anywhere |     2x | 3, 476
+                             appear |     2x | 214, 470
+                          appearing |     1x | 486
+                            appears |     1x | 472
+                         applicable |     3x | 531, 613, 615
+                              apply |     1x | 389
+                          appointed |     1x | 176
+                          apprehend |     1x | 94
+                           approach |     1x | 698
+                                apt |     1x | 198
+                            archive |    13x | 441, 534, 538, 540, 561, 580, 642, 644, 649, 652, 
+                                               658, 676, 731
+                                are |    41x | 51, 66, 92, 93, 105, 133, 153, 155, 172, 218, 
+                                               219, 222, 225, 227, 228, 232, 236, 277, 278, 285, 
+                                               346, 348, 433, 436, 444, 445, 449, 457, 458, 459, 
+                                               485, 536, 559, 658, 662, 683, 688, 700, 705, 719, 
+                                               720
+                              arise |     1x | 624
+                               arms |     1x | 57
+                              array |     1x | 682
+                             arrive |     1x | 105
+                                art |     2x | 111, 283
+                       artificially |     1x | 173
+                                 as |    49x | 52, 62, 67, 67, 70, 78, 100, 107, 108, 138, 
+                                               149, 165, 172, 176, 179, 191, 195, 199, 208, 223, 
+                                               224, 224, 225, 233, 233, 235, 237, 237, 262, 266, 
+                                               266, 276, 277, 279, 327, 329, 337, 342, 353, 396, 
+                                               429, 448, 448, 489, 519, 537, 563, 572, 720
+                              as-is |     1x | 606
+                              ascii |     2x | 513, 517
+                                ask |     1x | 350
+                         assemblies |     1x | 215
+                         assistance |     1x | 639
+                         associated |     8x | 377, 411, 432, 452, 473, 486, 501, 621
+                            assured |     4x | 113, 123, 177, 192
+                                 at |    43x | 3, 6, 57, 66, 75, 77, 105, 116, 117, 124, 
+                                               136, 139, 157, 211, 215, 227, 238, 240, 249, 285, 
+                                               287, 292, 293, 305, 313, 315, 324, 328, 351, 352, 
+                                               413, 476, 479, 497, 515, 538, 646, 656, 661, 663, 
+                                               666, 667, 725
+                           attached |     1x | 454
+                            attempt |     3x | 209, 325, 350
+                             author |     3x | 14, 154, 341
+                            authors |     1x | 341
+                          available |     2x | 413, 641
+                              avoid |     1x | 86
+                            avoided |     1x | 353
+                               away |     3x | 4, 226, 477
+                          away--you |     1x | 397
+                                  b |     2x | 626, 670
+                              babes |     2x | 86, 273
+                              backs |     2x | 57, 343
+                              bacon |     1x | 284
+                              baked |     1x | 126
+                          barbadoes |     1x | 54
+                           barrel'd |     1x | 282
+                              based |     2x | 448, 462
+                            bastard |     1x | 85
+                                 be |    70x | 73, 91, 94, 100, 107, 121, 131, 131, 135, 136, 
+                                               142, 148, 152, 156, 163, 167, 169, 176, 177, 178, 
+                                               185, 188, 191, 196, 198, 207, 216, 220, 224, 244, 
+                                               249, 250, 258, 262, 269, 281, 291, 295, 298, 299, 
+                                               300, 304, 318, 320, 325, 335, 338, 339, 341, 342, 
+                                               349, 376, 377, 383, 392, 397, 427, 431, 433, 483, 
+                                               495, 535, 537, 571, 575, 587, 613, 666, 680, 714
+                               bear |     1x | 332
+                               beat |     1x | 278
+                            because |     4x | 156, 196, 222, 635
+                             become |     2x | 197, 276
+                               beef |     1x | 282
+                               been |     7x | 108, 117, 123, 200, 220, 327, 352
+                             before |     5x | 113, 153, 339, 407, 461
+                                beg |     1x | 51
+                           beggar's |     1x | 161
+                            beggars |     4x | 48, 65, 347, 348
+                            begging |     1x | 77
+                          beginning |     1x | 497
+                              being |    17x | 11, 35, 50, 64, 78, 90, 95, 154, 187, 236, 
+                                               245, 254, 288, 314, 333, 344, 365
+                            believe |     1x | 163
+                              below |     3x | 436, 439, 563
+                         beneficial |     2x | 12, 36
+                               bent |     1x | 337
+                            besides |     4x | 197, 251, 257, 292
+                               best |     2x | 150, 262
+                             better |     1x | 340
+                             binary |     1x | 509
+                              black |     1x | 132
+                             bodies |     1x | 185
+                               body |     1x | 208
+                             boiled |     2x | 126, 142
+                               bold |     1x | 349
+                              boots |     1x | 174
+                          bordering |     1x | 199
+                               born |     4x | 66, 99, 144, 155
+                               both |     3x | 187, 494, 561
+                              bound |     2x | 427, 433
+                                boy |     1x | 113
+                             breach |     2x | 585, 585
+                             breast |     1x | 88
+                              breed |     2x | 131, 358
+                           breeders |     5x | 92, 96, 197, 237, 257
+                            brevity |     1x | 289
+                              bring |     2x | 261, 275
+                            brought |     1x | 320
+                              build |     1x | 103
+                               bulk |     1x | 347
+                             burden |     2x | 11, 36
+                           business |     1x | 663
+                 business@pglaf.org |     1x | 665
+                                but |    14x | 64, 95, 152, 189, 203, 221, 288, 327, 339, 532, 
+                                               572, 607, 662, 700
+                           butchers |     1x | 177
+                                buy |     1x | 318
+                             buying |     1x | 178
+                                 by |    56x | 1, 27, 39, 48, 56, 74, 76, 97, 101, 104, 
+                                               108, 113, 123, 134, 153, 158, 185, 188, 189, 193, 
+                                               204, 223, 232, 239, 244, 258, 264, 270, 270, 273, 
+                                               284, 338, 347, 354, 362, 364, 372, 380, 410, 420, 
+                                               423, 427, 432, 433, 450, 453, 495, 542, 543, 575, 
+                                               594, 614, 633, 654, 659, 681
+                                  c |     1x | 627
+                       cabbin-doors |     1x | 48
+                          calculate |     3x | 91, 302, 531
+                         calculated |     1x | 530
+                               calf |     1x | 278
+                               came |     1x | 205
+                                can |    19x | 102, 104, 107, 212, 224, 298, 304, 331, 364, 387, 
+                                               434, 436, 453, 458, 483, 593, 645, 666, 680
+                             cannot |    10x | 94, 116, 191, 214, 225, 249, 575, 678, 695, 700
+                            carcass |     3x | 164, 173, 207
+                          carcasses |     2x | 282, 294
+                               card |     1x | 706
+                               care |     1x | 271
+                              carry |     1x | 679
+                          catholick |     1x | 155
+                             cattle |     2x | 132, 245
+                              cause |     2x | 625, 627
+                           cautious |     1x | 314
+                              cavan |     1x | 109
+                              cease |     1x | 424
+                            censure |     1x | 198
+                            certain |     3x | 66, 610, 611
+                          certainly |     2x | 76, 262
+                              chair |     1x | 214
+                             change |     1x | 459
+                             charge |    11x | 78, 117, 161, 195, 259, 393, 394, 455, 521, 525, 
+                                               558
+                            charges |     1x | 485
+                         charitable |     1x | 687
+                          charities |     1x | 687
+                            charity |     1x | 68
+                              cheap |     2x | 60, 339
+                            cheaper |     1x | 295
+                              cheat |     1x | 319
+                              check |     2x | 459, 704
+                             checks |     1x | 706
+                              chief |     1x | 671
+                              child |     9x | 73, 124, 139, 144, 161, 165, 170, 275, 286
+                      child-bearing |     1x | 366
+                           children |    20x | 10, 35, 49, 57, 60, 65, 85, 93, 97, 98, 
+                                               130, 133, 150, 155, 178, 248, 258, 272, 348, 364
+                             choose |     1x | 600
+                             chosen |     1x | 240
+                       christenings |     1x | 293
+                          circulate |     1x | 253
+                       circumstance |     1x | 134
+                               city |     4x | 176, 291, 314, 664
+                              claim |     1x | 446
+                            clearly |     1x | 537
+                          cloathing |     1x | 81
+                            cloaths |     2x | 306, 356
+                              codes |     1x | 575
+                               cold |     1x | 223
+                         collateral |     1x | 158
+                         collection |     4x | 442, 444, 570, 640
+                               come |     3x | 114, 229, 641
+                         commercial |     1x | 399
+                          committed |     1x | 686
+                          commodity |     2x | 114, 332
+                             common |     3x | 227, 345, 355
+                      common-wealth |     1x | 61
+                         comparable |     1x | 285
+                        compilation |     1x | 442
+                         compliance |     5x | 451, 688, 691, 692, 722
+                             comply |     6x | 412, 453, 487, 494, 523, 555
+                          complying |     3x | 394, 435, 686
+                         compressed |     1x | 510
+                        computation |     1x | 73
+                            compute |     1x | 293
+                           computed |     3x | 130, 161, 249
+                           computer |     2x | 575, 575
+                          computers |     2x | 633, 634
+                          conceived |     1x | 184
+                            concept |     2x | 391, 714
+                            concern |     1x | 218
+                         concerning |     2x | 463, 701
+                          condition |     1x | 225
+                            confess |     3x | 106, 172, 200
+                          confessed |     1x | 203
+                           confined |     1x | 64
+                       confirmation |     1x | 691
+                          confirmed |     1x | 720
+                         conscience |     1x | 241
+                        consciences |     1x | 315
+                      consequential |     1x | 588
+                       consequently |     2x | 226, 263
+                           consider |     1x | 341
+                       considerable |     3x | 287, 567, 689
+                      consideration |     1x | 129
+                        consistence |     1x | 333
+                           constant |     3x | 257, 291, 459
+                            contact |     4x | 562, 665, 665, 669
+                            contain |     2x | 482, 571
+                         containing |     1x | 500
+                          continual |     1x | 193
+                        continuance |     1x | 334
+                           contract |     1x | 585
+                      contradiction |     1x | 340
+                           contrary |     1x | 80
+                         contribute |     1x | 80
+                      contributions |     2x | 657, 695
+                           contrive |     1x | 266
+                         convenient |     1x | 177
+                       conversation |     1x | 206
+                            convert |     1x | 509
+                               cook |     1x | 265
+                             copied |     2x | 474, 483
+                             copies |     7x | 394, 425, 512, 525, 546, 547, 620
+                               copy |    12x | 4, 387, 426, 471, 477, 503, 516, 516, 516, 551, 
+                                               598, 601
+                            copying |     4x | 390, 447, 461, 522
+                          copyright |    13x | 386, 388, 442, 457, 458, 464, 483, 493, 495, 497, 
+                                               568, 573, 721
+                               corn |     1x | 245
+                        corporation |     1x | 653
+                            corrupt |     1x | 573
+                               cost |     3x | 3, 476, 515
+                              costs |     2x | 583, 623
+                          cottagers |     2x | 162, 347
+                              could |     6x | 60, 275, 318, 320, 334, 714
+                          countries |     2x | 155, 458
+                            country |    16x | 11, 36, 47, 53, 103, 181, 187, 206, 228, 240, 
+                                               311, 314, 334, 362, 460, 464
+                             county |     1x | 109
+                             couple |     2x | 92, 93
+                             course |     2x | 220, 449
+                              court |     1x | 211
+                              cover |     1x | 356
+                               cows |     1x | 277
+                            created |     2x | 642, 719
+                           creating |     4x | 385, 447, 462, 569
+                           creation |     1x | 396
+                          creatures |     1x | 344
+                             credit |     1x | 706
+                           critical |     1x | 639
+                            crowded |     1x | 48
+                              crown |     1x | 115
+                             crowns |     1x | 212
+                          crucified |     1x | 209
+                            cruelty |     1x | 199
+                          cultivate |     1x | 104
+                             curate |     1x | 241
+                             curing |     1x | 308
+                            current |     1x | 704
+                             custom |     1x | 261
+                          customers |     1x | 292
+                             dainty |     1x | 208
+                                dam |     1x | 73
+                             damage |     2x | 575, 590
+                            damaged |     1x | 574
+                            damages |     4x | 578, 583, 589, 611
+                             danger |     1x | 331
+                          dangerous |     1x | 237
+                               data |     1x | 573
+                               date |     4x | 16, 17, 535, 665
+                                day |     3x | 142, 222, 351
+                               days |     4x | 535, 543, 552, 593
+                            dealing |     1x | 320
+                               dear |     2x | 53, 148
+                              death |     1x | 207
+                               debt |     1x | 346
+                         deductible |     1x | 658
+                               deer |     1x | 184
+                             defect |     3x | 551, 593, 627
+                          defective |     3x | 574, 598, 602
+                            defects |     1x | 572
+                          deference |     1x | 190
+                             degree |     2x | 226, 316
+                          deletions |     1x | 626
+                          delicious |     1x | 125
+                            deliver |     1x | 238
+                          delivered |     1x | 229
+                             demand |     2x | 67, 602
+                               deny |     1x | 212
+                            depends |     1x | 678
+                         deplorable |     1x | 58
+                         derivative |     3x | 396, 447, 462
+                             derive |     1x | 529
+                            derived |     1x | 481
+                          described |     1x | 579
+                            deserve |     1x | 61
+                          deserving |     1x | 190
+                             design |     2x | 238, 301
+                             desire |     3x | 301, 340, 348
+                            desired |     1x | 220
+                         despairing |     1x | 328
+                            despite |     1x | 570
+                         desponding |     1x | 218
+                            destroy |     2x | 424, 546
+                          destroyed |     1x | 184
+                        destruction |     1x | 284
+                             detach |     1x | 499
+                          determine |     1x | 692
+                           devoured |     1x | 149
+                                die |     1x | 97
+                             differ |     1x | 311
+                          different |     1x | 559
+                          digressed |     1x | 231
+                               dine |     1x | 167
+                              dines |     1x | 140
+                             direct |     1x | 588
+                           directly |     1x | 624
+                           director |     1x | 671
+                       disagreeable |     1x | 194
+                           disclaim |     1x | 582
+                         disclaimer |     3x | 578, 612, 614
+                        disclaimers |     1x | 610
+                        discontinue |     1x | 547
+                        discoursing |     1x | 182
+                           discover |     1x | 592
+                         discovered |     1x | 552
+                            disease |     1x | 97
+                           diseased |     1x | 219
+                               dish |     2x | 141, 252
+                             dishes |     2x | 139, 165
+                               disk |     1x | 574
+                            dislike |     1x | 349
+                        disobliging |     1x | 332
+                            display |     1x | 503
+                          displayed |     1x | 473
+                         displaying |     4x | 447, 461, 505, 521
+                           disposed |     1x | 188
+                           distress |     1x | 244
+                         distresses |     1x | 94
+                         distribute |     6x | 387, 407, 503, 509, 512, 558
+                        distributed |     4x | 474, 484, 681, 715
+                       distributing |     7x | 390, 410, 447, 461, 522, 526, 581
+                       distribution |     6x | 410, 493, 556, 622, 625, 632
+                        distributor |     1x | 587
+                                 do |    19x | 129, 179, 394, 397, 423, 427, 434, 436, 446, 458, 
+                                               499, 503, 521, 568, 610, 624, 690, 695, 721
+                               does |     2x | 482, 544
+                             domain |     8x | 385, 398, 444, 445, 482, 569, 680, 720
+                             donate |     3x | 533, 698, 707
+                           donation |     1x | 704
+                          donations |    15x | 539, 635, 645, 675, 679, 682, 687, 690, 692, 697, 
+                                               700, 701, 705, 706, 730
+                             donors |     1x | 697
+                              doubt |     2x | 86, 126
+                        downloading |     1x | 461
+                                 dr |     3x | 39, 661, 670
+                            dressed |     1x | 173
+                           dressing |     2x | 179, 263
+                              dropt |     1x | 73
+                             dublin |     2x | 176, 294
+                                due |     1x | 189
+                             during |     2x | 107, 276
+                               dyet |     1x | 154
+                              dying |     1x | 223
+                             e-mail |     1x | 543
+                               each |     1x | 535
+                            earlier |     1x | 106
+                          earnestly |     1x | 321
+                              earth |     1x | 304
+                               ease |     1x | 220
+                             easily |     1x | 453
+                               easy |     3x | 60, 339, 395
+                                eat |     1x | 335
+                             eating |     1x | 265
+                              ebook |    11x | 1, 3, 6, 16, 22, 372, 374, 394, 395, 476, 
+                                               479
+                             ebooks |     7x | 393, 398, 716, 719, 722, 731, 732
+                            edition |     1x | 722
+                           editions |     4x | 382, 382, 385, 720
+                        educational |     1x | 653
+                             effect |     2x | 67, 348
+                          effectual |     1x | 339
+                             effort |     2x | 568, 689
+                            efforts |     3x | 570, 635, 645
+                              eight |     2x | 168, 257
+                             eighty |     1x | 296
+                                ein |     1x | 655
+                             either |     4x | 52, 116, 270, 487
+                              elect |     1x | 598
+                         electronic |    27x | 390, 410, 418, 421, 425, 427, 432, 434, 437, 438, 
+                                               443, 450, 481, 492, 504, 504, 526, 552, 559, 570, 
+                                               582, 593, 620, 622, 633, 710, 714
+                     electronically |     2x | 599, 601
+                              email |     3x | 664, 665, 732
+                            eminent |     1x | 154
+                            emperor |     1x | 210
+                             employ |     3x | 51, 102, 220
+                           employee |     1x | 619
+                          employees |     2x | 567, 662
+                          emulation |     1x | 274
+                         encouraged |     1x | 270
+                           encrease |     1x | 271
+                          encreased |     1x | 251
+                         encreaseth |     1x | 145
+                                end |     2x | 372, 374
+                       endeavouring |     1x | 361
+                            enemies |     1x | 237
+                           enforced |     1x | 270
+                            england |     1x | 332
+                            english |     1x | 19
+                           ensuring |     1x | 640
+                      entertainment |     2x | 139, 288
+                           entirely |     1x | 254
+                             entity |     3x | 429, 597, 599
+                         enumerated |     1x | 281
+                          episcopal |     1x | 241
+                            equally |     2x | 126, 338
+                          equipment |     3x | 576, 682, 682
+                             errors |     1x | 573
+                         especially |     2x | 142, 399
+                             esteem |     1x | 182
+                               even |     5x | 110, 114, 311, 435, 589
+                               ever |     5x | 303, 304, 320, 325, 358
+                              every |     3x | 49, 187, 222
+                              evils |     1x | 229
+                              exact |     1x | 319
+                            exactly |     1x | 77
+                          exceeding |     1x | 186
+                          excellent |     2x | 165, 190
+                             except |     5x | 105, 306, 578, 585, 605
+                           exchange |     1x | 116
+                          exclusion |     1x | 611
+                        executioner |     1x | 207
+                          executive |     1x | 671
+                             exempt |     2x | 654, 683
+                           exercise |     1x | 194
+                             exists |     1x | 634
+                           expected |     1x | 224
+                          expedient |     1x | 203
+                         expedients |     2x | 305, 324
+                            expence |     3x | 86, 274, 330
+                             expend |     1x | 567
+                            expense |     1x | 515
+                           expenses |     2x | 583, 623
+                          expensive |     1x | 266
+                      expensiveness |     1x | 308
+                         experience |     1x | 192
+                        explanation |     2x | 595, 597
+                        exportation |     2x | 282, 333
+                          exporting |     1x | 516
+                            express |     1x | 607
+                             extent |     2x | 65, 658
+                                 f3 |     1x | 586
+                           facility |     1x | 725
+                           factions |     1x | 312
+                               fair |     2x | 60, 320
+                          fairbanks |     1x | 662
+                           families |     1x | 291
+                             family |     2x | 140, 167
+                             famine |     1x | 223
+                             famous |     1x | 204
+                                far |     1x | 64
+                            farmers |     2x | 162, 347
+                             farrow |     1x | 278
+                               fast |     1x | 223
+                                fat |     3x | 138, 165, 286
+                            fathers |     1x | 58
+                             fatten |     1x | 194
+                            fattest |     1x | 275
+                               fear |     1x | 279
+                              feast |     1x | 287
+                            federal |     2x | 655, 659
+                                fee |     8x | 426, 429, 515, 521, 525, 529, 531, 558
+                            feeding |     1x | 80
+                               fees |     4x | 484, 584, 623, 689
+                               fell |     1x | 329
+                             female |     1x | 48
+                            females |     2x | 135, 195
+                                few |     1x | 433
+                            fifteen |     1x | 209
+                            fifthly |     1x | 261
+                              fifty |     2x | 96, 251
+                              fight |     1x | 53
+                             figure |     2x | 287, 344
+                               file |     2x | 376, 413
+                              files |     2x | 377, 500
+                              filth |     1x | 223
+                          financial |     1x | 638
+                               find |     2x | 60, 342
+                               fine |     2x | 174, 264
+                           fineries |     1x | 215
+                              first |     4x | 235, 259, 342, 350
+                               fish |     1x | 154
+                                fit |     1x | 169
+                            fitness |     1x | 608
+                               five |     1x | 305
+                                fix |     1x | 603
+                               flea |     1x | 173
+                              flesh |     5x | 152, 192, 283, 292, 333
+                               foal |     1x | 277
+                             follow |     1x | 437
+                           followed |     1x | 48
+                          following |     3x | 469, 535, 624
+                               fond |     1x | 276
+                               food |     6x | 79, 125, 148, 261, 342, 352
+                                for |    74x | 3, 10, 11, 35, 36, 49, 50, 52, 53, 54, 
+                                               62, 64, 70, 74, 77, 79, 96, 100, 102, 111, 
+                                               131, 139, 139, 148, 153, 164, 169, 174, 174, 176, 
+                                               187, 191, 209, 216, 235, 263, 272, 279, 281, 292, 
+                                               302, 303, 315, 327, 332, 343, 352, 358, 363, 393, 
+                                               394, 395, 426, 452, 476, 488, 496, 521, 525, 551, 
+                                               555, 578, 583, 584, 588, 594, 605, 608, 641, 643, 
+                                               669, 692, 704, 715
+                             forced |     1x | 51
+                               fore |     1x | 140
+                            foreign |     2x | 215, 308
+                               form |     4x | 510, 511, 518, 681
+                             format |     4x | 454, 512, 513, 518
+                            formats |     2x | 377, 633
+                            formosa |     1x | 205
+                              forth |     8x | 389, 429, 489, 505, 560, 563, 605, 612
+                        fortunately |     1x | 329
+                            fortune |     2x | 137, 252
+                           fortunes |     1x | 214
+                              found |     5x | 72, 338, 377, 497, 666
+                         foundation |    22x | 386, 441, 441, 463, 534, 538, 540, 561, 563, 580, 
+                                               586, 618, 619, 642, 644, 646, 650, 652, 658, 676, 
+                                               686, 731
+                       foundation's |     3x | 655, 661, 666
+                               four |     5x | 49, 118, 135, 165, 211
+                        four-fifths |     1x | 162
+                           fourteen |     1x | 186
+                             fourth |     2x | 131, 142
+                           fourthly |     1x | 257
+                               free |     5x | 409, 438, 450, 555, 632
+                             freely |     5x | 300, 451, 641, 681, 714
+                             french |     1x | 154
+                           frequent |     4x | 85, 192, 279, 285
+                         frequented |     1x | 264
+                         frequently |     1x | 58
+                           fricasie |     1x | 127
+                             friend |     4x | 166, 190, 203, 206
+                            friends |     1x | 140
+                               from |    29x | 11, 35, 64, 73, 92, 179, 192, 205, 211, 226, 
+                                               229, 249, 311, 356, 385, 428, 446, 482, 500, 529, 
+                                               560, 595, 623, 624, 635, 695, 697, 701, 719
+                             fruits |     1x | 133
+                               full |    14x | 331, 404, 406, 412, 435, 454, 470, 499, 506, 518, 
+                                               542, 544, 550, 658
+                          furniture |     1x | 306
+                            further |     1x | 602
+                             future |     3x | 438, 643, 643
+                               gain |     1x | 257
+                             gaming |     1x | 309
+                  gbnewby@pglaf.org |     1x | 672
+                            general |     3x | 389, 417, 710
+                          generally |     1x | 193
+                        generations |     2x | 641, 643
+                          gentleman |     2x | 108, 164
+                          gentlemen |     4x | 174, 183, 252, 264
+                                get |     3x | 76, 225, 365
+                             gibbet |     1x | 211
+                               girl |     2x | 113, 209
+                              girls |     1x | 213
+                               give |     5x | 4, 164, 477, 589, 600
+                              given |     1x | 397
+                             giving |     1x | 363
+                               glad |     1x | 335
+                             gloves |     1x | 174
+                            glutted |     1x | 156
+                            glympse |     1x | 324
+                              goals |     1x | 640
+                               gone |     1x | 354
+                               good |     8x | 139, 142, 164, 167, 239, 265, 283, 362
+                           goodness |     1x | 319
+                              goods |     2x | 254, 318
+                             govern |     1x | 457
+                              grant |     1x | 148
+                            granted |     2x | 95, 654
+                         gratefully |     1x | 700
+                              grave |     1x | 153
+                              great |    10x | 46, 59, 83, 186, 211, 218, 261, 269, 284, 351
+                            greater |     2x | 65, 358
+                            greatly |     1x | 235
+                            gregory |     1x | 670
+                          grievance |     1x | 59
+                           grievous |     1x | 221
+                              groat |     1x | 214
+                              gross |     1x | 529
+                            grossly |     1x | 72
+                              group |     1x | 559
+                               grow |     2x | 52, 168
+                              grown |     1x | 286
+                             growth |     2x | 254, 307
+                             guests |     1x | 266
+                          gutenberg |    30x | 1, 5, 22, 372, 374, 392, 406, 412, 431, 441, 
+                                               448, 467, 472, 473, 478, 486, 534, 538, 540, 561, 
+                                               567, 580, 642, 644, 649, 652, 657, 675, 704, 730
+                       gutenberg-tm |    56x | 390, 391, 409, 413, 417, 420, 425, 427, 434, 437, 
+                                               438, 443, 450, 451, 452, 455, 463, 470, 471, 481, 
+                                               489, 492, 496, 499, 501, 507, 512, 514, 518, 522, 
+                                               526, 530, 532, 544, 548, 556, 558, 562, 569, 570, 
+                                               581, 582, 620, 622, 625, 627, 630, 632, 640, 643, 
+                                               678, 710, 713, 716, 719, 729
+                     gutenberg-tm's |     1x | 639
+                               half |     2x | 91, 115
+                         handicraft |     1x | 102
+                           happened |     1x | 207
+                            happily |     1x | 228
+                          happiness |     1x | 351
+                           harmless |     1x | 623
+                               hart |     2x | 562, 713
+                                has |     2x | 533, 725
+                               hath |     4x | 166, 200, 324, 330
+                               have |    34x | 62, 72, 100, 108, 123, 144, 149, 150, 158, 161, 
+                                               165, 168, 219, 227, 231, 232, 235, 240, 243, 253, 
+                                               263, 270, 292, 315, 352, 353, 353, 360, 364, 421, 
+                                               467, 584, 691, 696
+                             having |     5x | 70, 117, 184, 327, 361
+                                 he |     8x | 109, 166, 183, 184, 203, 324, 532, 715
+                               head |     1x | 204
+                            healthy |     1x | 124
+                               hear |     1x | 732
+                              heart |     1x | 360
+                             hearty |     1x | 325
+                              heels |     1x | 57
+                               help |     4x | 244, 438, 645, 731
+                           helpless |     1x | 52
+                                her |     2x | 74, 76
+                            highest |     1x | 233
+                             highly |     1x | 182
+                                him |     1x | 167
+                               hind |     1x | 140
+                              hired |     1x | 227
+                                his |    10x | 62, 166, 168, 181, 191, 204, 206, 208, 210, 266
+                           hitherto |     1x | 102
+                               hold |     1x | 618
+                             holder |     4x | 483, 493, 495, 497
+                               home |     2x | 238, 241
+                             honest |     2x | 50, 274
+                            honesty |     1x | 317
+                               hope |     3x | 120, 324, 449
+                            hopeful |     1x | 225
+                             hoping |     1x | 239
+                             horrid |     1x | 84
+                                hot |     1x | 179
+                              house |     1x | 356
+                             houses |     2x | 103, 264
+                           houshold |     1x | 306
+                                how |     8x | 99, 201, 266, 342, 645, 730, 731, 731
+                            however |     2x | 107, 511
+       http://gutenberg.org/license |     1x | 414
+                   http://pglaf.org |     2x | 667, 693
+            http://pglaf.org/donate |     1x | 707
+       http://pglaf.org/fundraising |     1x | 657
+           http://www.gutenberg.org |     1x | 727
+http://www.gutenberg.org/1/0/8/1080 |     1x | 378
+               http://www.pglaf.org |     1x | 646
+                             humane |     1x | 344
+                             humble |     1x | 196
+                             humbly |     2x | 120, 129
+                            hundred |     8x | 91, 95, 98, 130, 135, 212, 248, 343
+                           hundreds |     1x | 635
+                          hypertext |     1x | 511
+                                  i |    55x | 56, 72, 77, 86, 91, 92, 94, 96, 100, 103, 
+                                               106, 108, 113, 120, 120, 123, 126, 129, 144, 148, 
+                                               161, 162, 163, 165, 172, 178, 182, 190, 195, 199, 
+                                               212, 219, 221, 231, 231, 232, 235, 288, 293, 298, 
+                                               300, 301, 302, 303, 323, 329, 334, 337, 340, 348, 
+                                               352, 360, 360, 364, 364
+                     identification |     1x | 655
+                           identify |     1x | 568
+                               idle |     1x | 328
+                           idleness |     1x | 309
+                                 if |    25x | 145, 189, 212, 226, 317, 392, 393, 423, 426, 437, 
+                                               444, 459, 481, 485, 492, 511, 551, 558, 589, 592, 
+                                               594, 595, 599, 601, 612
+                          immediate |     2x | 469, 506
+                        immediately |     1x | 318
+                           imperial |     1x | 210
+                            implied |     2x | 607, 610
+                         importance |     1x | 233
+                          important |     2x | 71, 683
+                        importuning |     1x | 49
+                            imposed |     1x | 495
+                      impossibility |     1x | 354
+                         impossible |     1x | 101
+                         improbable |     1x | 197
+                        improvement |     1x | 283
+                                 in |   128x | 10, 35, 47, 49, 51, 54, 57, 58, 66, 67, 
+                                               68, 72, 76, 78, 83, 87, 90, 102, 103, 108, 
+                                               110, 111, 123, 126, 136, 138, 142, 145, 152, 153, 
+                                               155, 157, 161, 176, 182, 187, 191, 203, 205, 206, 
+                                               208, 211, 213, 215, 218, 221, 225, 252, 253, 265, 
+                                               273, 277, 277, 282, 283, 285, 291, 300, 301, 309, 
+                                               319, 331, 332, 334, 340, 344, 346, 348, 352, 360, 
+                                               361, 377, 386, 387, 389, 411, 425, 429, 432, 442, 
+                                               443, 444, 444, 445, 445, 446, 451, 454, 458, 458, 
+                                               460, 464, 484, 489, 505, 509, 512, 513, 517, 519, 
+                                               539, 543, 546, 550, 551, 560, 560, 563, 569, 579, 
+                                               586, 593, 598, 601, 602, 606, 612, 620, 633, 636, 
+                                               641, 681, 687, 690, 697, 705, 720, 722
+                         inaccurate |     1x | 572
+                         incidental |     1x | 589
+                       inclemencies |     1x | 356
+                            include |     1x | 518
+                           included |     4x | 5, 163, 478, 721
+                           includes |     1x | 729
+                          including |     8x | 510, 583, 607, 623, 634, 682, 706, 730
+                         incomplete |     1x | 572
+                         increasing |     1x | 680
+                        incumbrance |     1x | 221
+                              incur |     1x | 331
+                             indeed |     3x | 199, 212, 301
+                          indemnify |     1x | 618
+                          indemnity |     1x | 618
+                           indicate |     1x | 421
+                         indicating |     1x | 482
+                           indirect |     1x | 588
+                         indirectly |     1x | 624
+                         individual |     5x | 302, 443, 445, 481, 492
+                         inducement |     1x | 269
+                           industry |     1x | 317
+                         inevitable |     1x | 357
+                           infant's |     1x | 152
+                            infants |     5x | 52, 66, 157, 292, 363
+                        information |     8x | 539, 630, 649, 666, 669, 675, 710, 729
+                           informed |     1x | 108
+                       infringement |     1x | 574
+                        inhabitants |     1x | 311
+                            inhuman |     1x | 88
+                           innocent |     2x | 86, 338
+                           instance |     1x | 281
+                          instances |     1x | 110
+                            instead |     3x | 50, 78, 274
+                        instruments |     1x | 308
+                          intailing |     1x | 357
+                       intellectual |     2x | 422, 573
+                           intended |     1x | 201
+                          intention |     1x | 64
+                           interest |     1x | 361
+                           internal |     1x | 654
+                      international |     1x | 700
+                        interpreted |     1x | 614
+                               into |     4x | 204, 317, 325, 345
+                         introduced |     1x | 252
+                        introducing |     1x | 309
+                         invalidity |     1x | 615
+                            invited |     1x | 321
+                            ireland |     3x | 10, 35, 303
+                                irs |     1x | 684
+                                 is |    47x | 3, 46, 56, 58, 64, 65, 73, 77, 83, 99, 
+                                               101, 114, 124, 132, 133, 157, 197, 222, 279, 303, 
+                                               306, 329, 392, 395, 398, 431, 445, 473, 473, 476, 
+                                               481, 482, 492, 531, 552, 602, 606, 632, 639, 652, 
+                                               656, 656, 661, 663, 686, 713, 721
+                             island |     1x | 204
+                                 it |    41x | 4, 4, 5, 46, 56, 65, 73, 77, 83, 126, 
+                                               129, 158, 177, 195, 197, 222, 228, 235, 263, 266, 
+                                               271, 292, 299, 301, 321, 329, 330, 335, 351, 387, 
+                                               431, 455, 477, 477, 478, 482, 593, 594, 600, 634, 
+                                               688
+                                its |     7x | 73, 454, 517, 656, 662, 663, 679
+                               jews |     1x | 313
+                             joints |     1x | 211
+                           jonathan |     4x | 1, 14, 39, 372
+                               july |     1x | 16
+                               just |     3x | 73, 144, 320
+                            justify |     1x | 203
+                             justly |     1x | 264
+                               keep |     2x | 689, 722
+                            keeping |     2x | 452, 454
+                               kick |     1x | 278
+                               kind |     3x | 332, 339, 607
+                            kingdom |    15x | 59, 90, 95, 110, 117, 137, 157, 184, 216, 238, 
+                                               253, 295, 300, 303, 345
+                               knew |     1x | 109
+                              knife |     1x | 179
+                               know |     1x | 696
+                            knowing |     1x | 123
+                          knowledge |     1x | 265
+                              known |     1x | 222
+                             labour |     1x | 227
+                          labourers |     3x | 162, 224, 347
+                             ladies |     1x | 174
+                               lads |     1x | 185
+                               lake |     1x | 664
+                               land |     1x | 104
+                           landlord |     1x | 168
+                         landlord's |     1x | 245
+                          landlords |     3x | 149, 315, 354
+                           language |     1x | 19
+                         laplanders |     1x | 311
+                               last |     1x | 138
+                             lastly |     1x | 316
+                               late |     1x | 184
+                             lately |     1x | 182
+                                law |     3x | 244, 613, 615
+                             lawful |     1x | 76
+                               laws |     9x | 270, 457, 458, 460, 653, 659, 659, 686, 702
+                               lean |     1x | 193
+                              learn |     3x | 106, 167, 644
+                           learning |     1x | 310
+                              least |     7x | 118, 121, 157, 221, 315, 324, 360
+                              leave |     3x | 53, 240, 346
+                              legal |     2x | 583, 623
+                            legally |     1x | 536
+                             length |     1x | 328
+                               lent |     1x | 156
+                               less |     1x | 249
+                             lessen |     1x | 235
+                           lessened |     1x | 300
+                          lessening |     1x | 158
+                                let |     3x | 137, 304, 323
+                             letter |     1x | 656
+                          liability |     3x | 583, 585, 623
+                             liable |     3x | 121, 244, 588
+                            library |     1x | 714
+                            license |    15x | 5, 389, 399, 404, 406, 413, 422, 455, 470, 478, 
+                                               496, 500, 507, 519, 545
+                           licensed |     1x | 680
+                               lieu |     2x | 598, 601
+                               life |     2x | 272, 636
+                               like |     4x | 193, 313, 323, 357
+                           likewise |     2x | 83, 261
+                         limitation |     3x | 611, 612, 614
+                            limited |     5x | 572, 578, 592, 605, 607
+                             linked |     1x | 495
+                              links |     3x | 469, 506, 665
+                               list |     1x | 162
+                           literary |    13x | 441, 534, 538, 540, 561, 580, 642, 644, 649, 652, 
+                                               658, 676, 730
+                             little |     7x | 67, 74, 141, 153, 199, 314, 330
+                         livelihood |     2x | 51, 104
+                              lives |     1x | 79
+                            located |     4x | 446, 457, 661, 663
+                          locations |     2x | 663, 690
+                             london |     2x | 124, 205
+                               long |     3x | 231, 334, 448
+                             longer |     1x | 313
+                             looked |     1x | 107
+                              loose |     1x | 716
+                               lord |     1x | 287
+                               loss |     1x | 196
+                                lot |     1x | 436
+                               love |     1x | 310
+                              lover |     1x | 181
+                             luxury |     1x | 308
+                            machine |     1x | 681
+                               made |     3x | 213, 232, 244
+                       magnificence |     1x | 286
+                            maidens |     1x | 186
+                             maimed |     1x | 219
+                               main |     1x | 725
+                           maintain |     1x | 93
+                       maintainance |     1x | 248
+                        maintaining |     2x | 259, 683
+                          majesty's |     1x | 210
+                               make |    11x | 126, 139, 141, 165, 173, 266, 287, 320, 614, 700, 
+                                               730
+                              makes |     1x | 463
+                             making |     4x | 12, 36, 60, 283
+                               male |     1x | 134
+                              males |     2x | 131, 191
+                                man |     2x | 304, 323
+                          mandarins |     1x | 211
+                             manner |     2x | 78, 352
+                        manufacture |     2x | 255, 307
+                               many |    11x | 70, 81, 94, 183, 233, 239, 281, 288, 327, 682, 
+                                               689
+                              march |     1x | 153
+                              mares |     1x | 277
+                             marked |     2x | 510, 537
+                             market |     1x | 276
+                            markets |     1x | 156
+                           marriage |     2x | 133, 269
+                            married |     1x | 275
+                          materials |     1x | 307
+                             matter |     2x | 182, 222
+                           maturely |     2x | 71, 341
+                            maximum |     1x | 614
+                                may |    26x | 4, 73, 75, 91, 131, 136, 172, 176, 177, 220, 
+                                               244, 349, 392, 395, 397, 397, 428, 431, 477, 509, 
+                                               525, 571, 571, 598, 600, 602
+                            mayor's |     1x | 287
+                                 me |     5x | 109, 192, 200, 304, 323
+                               mean |     1x | 103
+                              means |     3x | 385, 516, 516
+                            measure |     1x | 319
+                               meat |     1x | 166
+                             medium |     6x | 144, 546, 571, 574, 596, 596
+                               meet |     1x | 689
+                           meetings |     1x | 293
+                              melan |     1x | 661
+                         melancholy |     1x | 46
+                            members |     1x | 61
+                                men |     2x | 276, 338
+                    merchantibility |     1x | 608
+                          merchants |     1x | 113
+                              mercy |     1x | 316
+                              merry |     1x | 292
+                                met |     1x | 696
+                             method |     2x | 60, 530
+                            methods |     2x | 102, 705
+                            michael |     2x | 561, 713
+                        middle-aged |     1x | 634
+                              might |     4x | 185, 198, 281, 292
+                               milk |     1x | 74
+                            million |     3x | 90, 344, 346
+                           minister |     1x | 210
+                        miscarriage |     1x | 279
+                           miscarry |     1x | 97
+                           miseries |     1x | 358
+                        misfortunes |     1x | 353
+                            mission |     4x | 409, 450, 630, 679
+                        mississippi |     1x | 654
+                           mistaken |     1x | 72
+                             modest |     6x | 1, 9, 22, 33, 372, 374
+                       modification |     1x | 626
+                           modified |     1x | 397
+                             moment |     1x | 313
+                              money |     6x | 245, 253, 355, 542, 551, 594
+                              month |     1x | 138
+                             months |     1x | 156
+                               more |     7x | 86, 132, 152, 155, 156, 172, 644
+                            mortals |     1x | 351
+                               most |    11x | 75, 87, 116, 125, 149, 177, 237, 357, 434, 458, 
+                                               725
+                             mother |     3x | 75, 137, 168
+                            mothers |     3x | 50, 57, 271
+                             motive |     1x | 362
+                             mouths |     1x | 343
+                               move |     1x | 87
+                               much |     6x | 65, 106, 134, 284, 300, 689
+                          murdering |     2x | 85, 313
+                               must |    11x | 172, 424, 470, 487, 494, 515, 518, 535, 545, 560, 
+                                               596
+                                 my |    21x | 64, 70, 70, 83, 120, 123, 132, 183, 191, 203, 
+                                               206, 220, 231, 302, 327, 337, 340, 349, 360, 362, 
+                                               365
+                               name |     2x | 334, 452
+                              named |     1x | 376
+                             nation |     4x | 62, 221, 237, 335
+                           nation's |     1x | 250
+                            nations |     1x | 270
+                             native |     3x | 53, 204, 318
+                            nearest |     1x | 189
+                             nearly |     2x | 395, 443
+                               neat |     1x | 169
+                        necessarily |     1x | 721
+                          necessary |     1x | 361
+                               need |     1x | 639
+                         negligence |     1x | 584
+                            neither |     5x | 102, 103, 212, 306, 356
+                            network |     1x | 716
+                              never |     2x | 109, 215
+                                new |     5x | 252, 330, 634, 731, 732
+                              newby |     1x | 670
+                         newsletter |     1x | 732
+                               nine |     2x | 155, 365
+                                 no |    22x | 3, 4, 114, 126, 163, 285, 298, 303, 304, 323, 
+                                               330, 331, 362, 364, 385, 463, 476, 477, 515, 584, 
+                                               606, 696
+                                non |     1x | 652
+                     nonproprietary |     1x | 510
+                                nor |     7x | 103, 186, 278, 306, 312, 320, 356
+                              north |     1x | 664
+                                not |    37x | 75, 115, 121, 134, 177, 186, 194, 197, 216, 221, 
+                                               227, 314, 332, 337, 351, 360, 392, 394, 423, 427, 
+                                               446, 482, 499, 503, 521, 544, 572, 587, 607, 610, 
+                                               616, 688, 690, 691, 695, 696, 721
+                            nothing |     1x | 315
+                             notice |     3x | 482, 589, 721
+                           notifies |     1x | 542
+                         nourishing |     1x | 125
+                        nourishment |     2x | 74, 226
+                                now |     6x | 120, 187, 225, 277, 318, 342
+                             number |    14x | 56, 66, 90, 92, 99, 157, 159, 187, 219, 236, 
+                                               299, 656, 680, 705
+                           numerous |     1x | 663
+                             nursed |     2x | 124, 145
+                            nursing |     1x | 161
+                         nutriments |     1x | 117
+                          nutritive |     1x | 166
+                             object |     1x | 46
+                          objection |     3x | 121, 200, 298
+                             oblige |     1x | 266
+                            observe |     1x | 302
+                           observed |     1x | 235
+                           obsolete |     1x | 634
+                             obtain |     3x | 428, 488, 560
+                          obtaining |     2x | 426, 516
+                            obvious |     1x | 232
+                         occupation |     1x | 76
+                              occur |     1x | 625
+                            october |     1x | 17
+                                 of |   257x | 1, 3, 5, 10, 22, 35, 48, 50, 53, 56, 
+                                               57, 58, 58, 60, 61, 61, 62, 65, 65, 66, 
+                                               66, 71, 75, 76, 78, 79, 81, 84, 90, 91, 
+                                               94, 98, 101, 105, 109, 110, 110, 117, 123, 129, 
+                                               133, 136, 149, 157, 159, 161, 162, 164, 165, 173, 
+                                               176, 177, 181, 183, 184, 185, 185, 186, 187, 188, 
+                                               188, 193, 204, 208, 208, 209, 210, 211, 213, 218, 
+                                               219, 221, 226, 233, 236, 237, 239, 243, 248, 251, 
+                                               252, 252, 254, 257, 258, 258, 259, 271, 272, 274, 
+                                               275, 276, 276, 277, 279, 282, 282, 283, 283, 284, 
+                                               288, 295, 298, 299, 303, 304, 305, 305, 306, 307, 
+                                               308, 308, 309, 310, 310, 312, 312, 314, 315, 316, 
+                                               316, 316, 320, 323, 324, 328, 330, 332, 333, 339, 
+                                               344, 346, 347, 350, 353, 354, 354, 355, 356, 357, 
+                                               360, 362, 372, 372, 374, 377, 389, 389, 394, 396, 
+                                               409, 410, 412, 417, 420, 422, 424, 425, 426, 428, 
+                                               433, 435, 436, 437, 442, 449, 450, 451, 453, 457, 
+                                               459, 460, 460, 464, 471, 476, 478, 483, 487, 488, 
+                                               493, 497, 497, 500, 504, 506, 512, 516, 516, 517, 
+                                               525, 529, 529, 530, 532, 542, 543, 544, 546, 547, 
+                                               547, 550, 553, 553, 555, 556, 559, 562, 578, 579, 
+                                               580, 585, 585, 589, 589, 592, 593, 594, 598, 601, 
+                                               605, 607, 608, 610, 611, 611, 613, 615, 616, 619, 
+                                               620, 622, 624, 625, 630, 632, 633, 635, 635, 635, 
+                                               636, 653, 654, 679, 680, 682, 687, 691, 692, 696, 
+                                               701, 705, 713, 714, 714, 716, 720
+                                off |     1x | 294
+                              offer |     4x | 129, 183, 278, 338
+                            offered |     1x | 136
+                           offering |     3x | 301, 327, 340
+                             offers |     1x | 698
+                             office |     2x | 661, 663
+                           official |     3x | 513, 514, 666
+                              often |     2x | 321, 719
+                                old |    10x | 77, 105, 114, 124, 136, 249, 352, 365, 382, 634
+                               omit |     1x | 288
+                                 on |    19x | 11, 36, 57, 80, 116, 142, 182, 238, 432, 448, 
+                                               462, 471, 486, 514, 535, 559, 568, 571, 596
+                                one |    16x | 77, 90, 109, 131, 134, 157, 158, 213, 291, 298, 
+                                               301, 302, 313, 315, 320, 386
+                           one--the |     1x | 382
+                             online |     4x | 6, 413, 479, 706
+                               only |     8x | 64, 98, 107, 131, 166, 318, 431, 716
+                            opinion |     1x | 337
+                      opportunities |     1x | 603
+                        opportunity |     1x | 600
+                         oppression |     1x | 354
+                                 or |   113x | 4, 6, 11, 36, 47, 49, 53, 54, 57, 57, 
+                                               76, 79, 79, 97, 97, 103, 109, 113, 115, 117, 
+                                               126, 127, 132, 140, 141, 166, 189, 219, 270, 278, 
+                                               278, 285, 287, 303, 341, 355, 357, 376, 407, 410, 
+                                               411, 413, 420, 424, 426, 428, 432, 442, 447, 461, 
+                                               462, 469, 472, 474, 477, 479, 485, 485, 486, 488, 
+                                               489, 499, 499, 500, 501, 503, 504, 506, 510, 511, 
+                                               511, 513, 515, 516, 517, 522, 523, 525, 526, 536, 
+                                               543, 545, 551, 558, 559, 572, 573, 574, 574, 575, 
+                                               575, 579, 585, 588, 592, 597, 599, 605, 607, 608, 
+                                               611, 611, 612, 614, 615, 619, 624, 625, 625, 626, 
+                                               626, 655, 692
+                              order |     1x | 203
+                          organized |     1x | 653
+                           original |     1x | 517
+                         originator |     1x | 713
+                              other |    22x | 74, 158, 211, 281, 287, 303, 304, 362, 411, 462, 
+                                               469, 501, 512, 513, 517, 547, 555, 573, 574, 581, 
+                                               606, 705
+                             others |     3x | 288, 292, 455
+                          otherwise |     1x | 189
+                                our |    26x | 68, 72, 113, 134, 176, 193, 237, 254, 254, 282, 
+                                               285, 305, 306, 309, 310, 312, 314, 317, 318, 331, 
+                                               335, 363, 702, 725, 731, 732
+                                out |     3x | 60, 327, 679
+                           outdated |     1x | 682
+                            outside |     3x | 459, 464, 702
+                           over-run |     1x | 236
+                           overture |     1x | 349
+                               owed |     1x | 532
+                                own |    10x | 70, 93, 120, 167, 243, 254, 300, 307, 331, 337
+                              owner |     5x | 532, 562, 580, 587, 619
+                               owns |     2x | 386, 442
+                               page |     2x | 646, 667
+                              pages |     1x | 704
+                               paid |     6x | 426, 429, 535, 542, 551, 594
+                               pain |     1x | 221
+                              paper |     1x | 722
+                          paperwork |     1x | 689
+                            papists |     2x | 159, 236
+                          paragraph |    11x | 429, 436, 439, 505, 519, 523, 533, 550, 579, 586, 
+                                               606
+                         paragraphs |     3x | 487, 489, 494
+                            parents |     9x | 11, 36, 67, 78, 99, 117, 149, 188, 350
+                             parish |     1x | 79
+                          parsimony |     1x | 310
+                               part |     7x | 70, 110, 131, 389, 420, 500, 504
+                         particular |     3x | 166, 693, 722
+                       particularly |     2x | 293, 683
+                            parties |     1x | 56
+                             partly |     1x | 80
+                              parts |     2x | 106, 177
+                              party |     1x | 581
+                          passenger |     1x | 49
+                               past |     1x | 365
+                            patriot |     1x | 190
+                                pay |     4x | 216, 241, 244, 529
+                             paying |     3x | 355, 388, 484
+                           payments |     3x | 534, 537, 706
+                          penalties |     1x | 271
+                              penny |     1x | 365
+                             people |     8x | 10, 35, 198, 219, 299, 432, 636, 725
+                             pepper |     1x | 141
+                                per |     4x | 163, 250, 251, 258
+                         perfection |     1x | 263
+                            perform |     2x | 228, 503
+                       performances |     1x | 396
+                          performed |     1x | 473
+                         performing |     3x | 447, 461, 522
+                            perhaps |     2x | 334, 349
+                           periodic |     1x | 536
+                          permanent |     1x | 643
+                         permission |     7x | 388, 393, 483, 488, 493, 497, 560
+                          permitted |     2x | 614, 659
+                          perpetual |     1x | 353
+                             person |     6x | 181, 206, 428, 595, 597, 599
+                           personal |     1x | 361
+                            persons |     3x | 136, 207, 218
+                                 pg |     1x | 725
+                              pglaf |     1x | 442
+                             phrase |     4x | 411, 472, 472, 486
+                           physical |     2x | 546, 596
+                          physician |     1x | 154
+                               pick |     1x | 104
+                              piece |     1x | 250
+                               pigs |     2x | 179, 284
+                               pine |     1x | 226
+                               pity |     1x | 87
+                              place |     1x | 457
+                              plain |     2x | 513, 517
+                         play-house |     1x | 215
+                             please |     4x | 267, 407, 704, 707
+                            pleased |     2x | 182, 341
+                           pleasure |     1x | 364
+                          plentiful |     1x | 152
+                        plentifully |     1x | 138
+                              plump |     3x | 138, 209, 213
+                             points |     1x | 341
+                             poison |     1x | 209
+                        politicians |     1x | 349
+                               poor |     7x | 10, 35, 86, 99, 219, 273, 363
+                             poorer |     1x | 243
+                             popish |     1x | 157
+                            popular |     1x | 168
+                          possessed |     1x | 546
+                         possession |     1x | 425
+                        possibility |     1x | 589
+                           possibly |     1x | 298
+                             posted |     5x | 483, 492, 496, 514, 656
+                            posting |     1x | 16
+                              pound |     1x | 305
+                             pounds |     6x | 115, 115, 145, 146, 251, 346
+                              power |     1x | 331
+                        practically |     1x | 398
+                           practice |     4x | 84, 198, 279, 325
+                          pregnancy |     1x | 277
+                            prepare |     2x | 536, 536
+                          prescribe |     1x | 352
+                            present |     3x | 58, 94, 101
+                           preserve |     1x | 438
+                          preserver |     1x | 62
+                          pretender |     2x | 54, 239
+                            prevent |     2x | 84, 446
+                         preventing |     2x | 10, 35
+                           previous |     1x | 382
+                              price |     1x | 319
+                              pride |     1x | 309
+                              prime |     2x | 208, 210
+                          principal |     4x | 108, 236, 301, 661
+                              print |     1x | 385
+                            printed |     2x | 397, 719
+                           probably |     1x | 295
+                       probationers |     1x | 108
+                            problem |     1x | 603
+                         processing |     1x | 511
+                            procure |     1x | 262
+                         prodigious |     1x | 56
+                            produce |     1x | 731
+                           produced |     3x | 27, 380, 715
+                           produces |     1x | 169
+                         production |     1x | 621
+                            profess |     1x | 360
+                          professed |     1x | 65
+                         profession |     1x | 347
+                          professor |     1x | 713
+                        proficiency |     1x | 111
+                             profit |     4x | 169, 251, 273, 652
+                            profits |     1x | 529
+                        prohibition |     1x | 696
+                            project |    88x | 1, 5, 22, 201, 372, 374, 390, 391, 391, 406, 
+                                               409, 411, 412, 417, 420, 425, 426, 431, 434, 436, 
+                                               438, 441, 442, 448, 449, 451, 452, 454, 462, 467, 
+                                               470, 471, 472, 472, 478, 481, 486, 489, 492, 496, 
+                                               499, 501, 506, 512, 514, 518, 522, 526, 530, 532, 
+                                               534, 538, 540, 544, 548, 556, 558, 561, 562, 567, 
+                                               569, 570, 579, 580, 581, 620, 622, 625, 627, 630, 
+                                               632, 639, 640, 641, 643, 644, 649, 652, 657, 675, 
+                                               678, 704, 710, 713, 715, 719, 729, 730
+                         projectors |     1x | 72
+                          prolifick |     1x | 154
+                        prominently |     2x | 470, 505
+                            promote |     2x | 308, 361
+                          promoting |     2x | 409, 450
+                          promotion |     1x | 622
+                          proofread |     1x | 568
+                        propagation |     1x | 283
+                             proper |     1x | 148
+                           properly |     1x | 107
+                           property |     2x | 422, 574
+                           proposal |    10x | 1, 9, 22, 33, 232, 299, 320, 329, 372, 374
+                            propose |     3x | 77, 120, 364
+                           proposed |     2x | 102, 338
+                        proprietary |     1x | 510
+                           prospect |     1x | 357
+                            protect |     2x | 391, 409
+                        protestants |     1x | 240
+                          protested |     1x | 109
+                            provide |     9x | 64, 77, 511, 515, 542, 550, 598, 638, 642
+                           provided |     6x | 100, 273, 526, 586, 597, 606
+                          providing |     5x | 363, 485, 525, 600, 620
+                          provision |     1x | 616
+                         provisions |     1x | 616
+                           prudence |     1x | 310
+                            prudent |     1x | 262
+                             public |     9x | 385, 398, 444, 445, 482, 569, 679, 680, 720
+                            publick |     8x | 12, 37, 62, 129, 196, 273, 287, 362
+                           punitive |     1x | 588
+                            purpose |     4x | 176, 238, 395, 608
+                                put |     4x | 204, 207, 325, 345
+                            putting |     1x | 316
+                            quality |     2x | 136, 208
+                            quarter |     1x | 140
+                           question |     1x | 99
+                           quickest |     1x | 111
+                           quitting |     1x | 312
+                            ragoust |     1x | 127
+                               rags |     3x | 49, 117, 163
+                            raiment |     2x | 79, 343
+                             raised |     1x | 298
+                             rather |     2x | 178, 240
+                             re-use |     2x | 5, 478
+                           reaching |     1x | 639
+                               read |     3x | 407, 421, 575
+                           readable |     2x | 633, 681
+                             reader |     1x | 302
+                            reading |     1x | 420
+                              ready |     2x | 187, 278
+                               real |     1x | 330
+                             reared |     1x | 100
+                             reason |     1x | 133
+                         reasonable |     2x | 141, 525
+                         reasonably |     1x | 224
+                            receipt |     2x | 543, 553
+                           receipts |     1x | 263
+                            receive |     3x | 393, 594, 601
+                           received |     5x | 595, 596, 599, 691, 701
+                          receiving |     1x | 593
+                             reckon |     1x | 162
+                           reckoned |     2x | 90, 144
+                          recommend |     1x | 178
+                       redistribute |     1x | 503
+                     redistributing |     2x | 417, 485
+                     redistribution |     2x | 398, 400
+                         references |     2x | 448, 467
+                         refinement |     2x | 183, 253
+                             refund |    10x | 428, 542, 550, 579, 592, 594, 599, 601, 602, 605
+                           regarded |     1x | 134
+                         registered |     2x | 392, 431
+                         regulating |     1x | 686
+                             reject |     1x | 337
+                          rejecting |     1x | 307
+                          relations |     1x | 189
+                            release |     1x | 17
+                          relieving |     1x | 363
+                             remain |     3x | 95, 98, 641
+                          remaining |     3x | 135, 296, 616
+                           remedies |     1x | 584
+                             remedy |     1x | 302
+                             remove |     1x | 499
+                            removed |     2x | 449, 467
+                            renamed |     1x | 383
+                             render |     1x | 138
+                           renowned |     1x | 111
+                               rent |     2x | 245, 355
+                             repeat |     1x | 323
+                             repine |     1x | 164
+                            replace |     1x | 382
+                        replacement |     5x | 551, 579, 592, 598, 605
+                           reported |     1x | 552
+                            reports |     1x | 396
+                    representations |     1x | 463
+                            request |     1x | 517
+                            require |     2x | 172, 545
+                           required |     1x | 536
+                       requirements |     4x | 487, 688, 690, 696
+                           research |     2x | 397, 568
+                           reserved |     1x | 131
+                         resolution |     1x | 317
+                               rest |     2x | 79, 295
+                       restrictions |     2x | 4, 477
+                             return |     4x | 231, 424, 545, 596
+                            returns |     1x | 537
+                            revenue |     1x | 655
+                            rewards |     1x | 270
+                               rich |     1x | 364
+                                rid |     1x | 258
+                              right |     4x | 446, 578, 592, 605
+                              roads |     1x | 47
+                            roasted |     2x | 125, 286
+                           roasting |     1x | 179
+                              roman |     1x | 155
+                            rotting |     1x | 223
+                              round |     1x | 344
+                          royalties |     2x | 388, 533
+                            royalty |     3x | 529, 534, 537
+                          rudiments |     1x | 106
+                              rules |     2x | 388, 395
+                                  s |     2x | 661, 713
+                               s/he |     1x | 543
+                        sacrificing |     1x | 86
+                               said |     3x | 100, 165, 183
+                               sale |     2x | 136, 258
+                           saleable |     1x | 114
+                        salmanaazor |     1x | 204
+                               salt |     3x | 141, 334, 664
+                               same |     2x | 212, 454
+                             savage |     1x | 87
+                            savages |     1x | 134
+                          scattered |     1x | 662
+                              scene |     1x | 353
+                             scheme |     3x | 83, 183, 340
+                            schemes |     1x | 71
+                        school-boys |     1x | 193
+                             scraps |     1x | 76
+                         scrupulous |     1x | 198
+                             search |     1x | 725
+                             season |     1x | 152
+                           seasoned |     1x | 141
+                             second |     2x | 600, 601
+                           secondly |     2x | 243, 343
+                            section |     7x | 417, 539, 563, 630, 649, 675, 710
+                           sections |     1x | 645
+                             secure |     1x | 642
+                                see |     5x | 47, 274, 435, 439, 645
+                               seem |     1x | 149
+                             seized |     1x | 245
+                             seldom |     2x | 104, 133
+                               self |     1x | 327
+                               sell |     2x | 54, 314
+                             selves |     1x | 254
+                               send |     1x | 692
+                            sending |     1x | 594
+                               sent |     1x | 538
+                           sentence |     2x | 469, 505
+                         sentiments |     1x | 191
+                              serve |     2x | 126, 135
+                            service |     2x | 188, 655
+                                set |     9x | 62, 389, 429, 489, 505, 559, 563, 605, 612
+                         settlement |     1x | 272
+                            seventy |     1x | 96
+                            several |     3x | 71, 213, 719
+                                sex |     1x | 48
+                              sexes |     1x | 187
+                              shall |     9x | 65, 80, 100, 120, 231, 338, 339, 613, 616
+                           shambles |     1x | 176
+                              shame |     1x | 87
+                              share |     1x | 455
+                             shared |     1x | 714
+                            sharing |     1x | 451
+                                she |     1x | 169
+                              sheep |     1x | 132
+                          shillings |     7x | 75, 163, 164, 169, 250, 257, 305
+                       shop-keepers |     1x | 317
+                             should |     4x | 274, 299, 376, 537
+                              since |     1x | 354
+                            sincere |     1x | 325
+                          sincerity |     1x | 360
+                             single |     2x | 213, 365
+                               site |     4x | 514, 666, 725, 729
+                          situation |     1x | 101
+                                six |     3x | 49, 105, 110
+                            sixthly |     1x | 269
+                            skilful |     1x | 265
+                              skill |     1x | 317
+                               skin |     1x | 173
+                              small |     2x | 682, 702
+                                 so |    15x | 61, 94, 110, 138, 186, 190, 190, 221, 239, 262, 
+                                               284, 330, 337, 349, 386
+                             soever |     1x | 201
+                              solar |     2x | 74, 145
+                               sold |     4x | 207, 210, 295, 352
+                            solicit |     2x | 690, 695
+                       solicitation |     1x | 696
+                              solid |     1x | 330
+                               some |     9x | 166, 197, 218, 273, 282, 324, 325, 363, 610
+                          something |     3x | 243, 330, 339
+                           somewhat |     2x | 148, 295
+                               soon |     2x | 196, 274
+                               sort |     1x | 273
+                              souls |     1x | 90
+                              sound |     1x | 61
+                                sow |     1x | 278
+                              spain |     1x | 54
+                            special |     1x | 388
+                           specific |     1x | 393
+                          specified |     2x | 519, 539
+                             spirit |     2x | 218, 316
+                             spread |     1x | 679
+                             squire |     1x | 167
+                              staff |     1x | 702
+                              stand |     1x | 342
+                              start |     3x | 22, 404, 725
+                             starve |     1x | 187
+                              state |     7x | 58, 210, 459, 613, 615, 654, 693
+                            state's |     1x | 659
+                         statements |     1x | 701
+                             states |    14x | 386, 387, 444, 445, 446, 459, 465, 484, 610, 687, 
+                                               688, 695, 697, 702
+                             statue |     1x | 62
+                             status |     4x | 464, 654, 684, 692
+                               stay |     2x | 238, 240
+                           stealing |     1x | 104
+                           sterling |     2x | 258, 346
+                             stewed |     1x | 125
+                               stir |     1x | 214
+                              stock |     2x | 250, 345
+                             stored |     1x | 571
+                            streets |     2x | 47, 68
+                           strength |     1x | 228
+                             strict |     1x | 584
+                           stroling |     1x | 51
+                          strongest |     1x | 200
+                           studious |     1x | 288
+                            subject |     3x | 71, 231, 399
+                         submission |     1x | 196
+                          subscribe |     1x | 732
+                        subsistence |     1x | 345
+                           subtract |     2x | 92, 96
+                            success |     1x | 329
+                               such |     9x | 78, 198, 353, 396, 537, 545, 572, 589, 697
+                               suck |     1x | 138
+                         sufficient |     1x | 135
+                             summer |     1x | 174
+                           supply'd |     1x | 185
+                            support |     5x | 67, 449, 638, 679, 716
+                          supported |     1x | 74
+                          supposing |     1x | 291
+                               sure |     1x | 272
+                            survive |     1x | 678
+                         sustenance |     2x | 52, 355
+                              swamp |     1x | 702
+                              swift |     4x | 1, 14, 39, 372
+                              swine |     1x | 132
+                            swine's |     1x | 283
+                         synonymous |     1x | 632
+                              table |     1x | 139
+                             tables |     2x | 252, 285
+                               take |     3x | 66, 239, 294
+                              taken |     3x | 220, 314, 318
+                              takes |     1x | 688
+                               talk |     2x | 304, 323
+                              taste |     3x | 194, 253, 285
+                            taverns |     1x | 261
+                                tax |     6x | 536, 654, 655, 658, 683, 701
+                              taxes |     1x | 531
+                             taxing |     1x | 305
+                           teaching |     1x | 315
+                              tears |     1x | 87
+                         temperance |     1x | 310
+                                ten |     2x | 164, 250
+                            tenants |     3x | 168, 243, 316
+                             tender |     1x | 333
+                         tenderness |     1x | 271
+                              terms |    21x | 5, 389, 412, 417, 422, 424, 428, 433, 435, 437, 
+                                               451, 453, 460, 478, 495, 495, 500, 506, 544, 555, 
+                                               559
+                               than |     8x | 87, 132, 156, 240, 249, 362, 512, 559
+                               that |    54x | 56, 77, 83, 84, 109, 111, 113, 118, 124, 126, 
+                                               129, 133, 135, 144, 154, 183, 184, 192, 193, 197, 
+                                               203, 206, 208, 212, 218, 222, 222, 226, 291, 293, 
+                                               298, 299, 302, 303, 308, 324, 339, 350, 360, 385, 
+                                               421, 434, 449, 482, 527, 543, 575, 584, 586, 597, 
+                                               624, 640, 680, 714
+                                the |   346x | 1, 3, 5, 5, 10, 12, 35, 37, 47, 47, 
+                                               47, 48, 54, 54, 57, 57, 57, 58, 59, 61, 
+                                               62, 62, 64, 66, 68, 71, 75, 75, 76, 79, 
+                                               79, 80, 80, 81, 86, 86, 87, 87, 90, 94, 
+                                               95, 98, 99, 101, 101, 103, 106, 108, 110, 110, 
+                                               111, 116, 116, 117, 121, 129, 133, 135, 136, 137, 
+                                               137, 138, 140, 140, 142, 149, 150, 150, 152, 156, 
+                                               157, 159, 161, 162, 164, 167, 168, 172, 173, 173, 
+                                               177, 178, 179, 184, 185, 191, 195, 195, 196, 200, 
+                                               204, 204, 207, 207, 208, 209, 211, 211, 212, 216, 
+                                               216, 221, 221, 224, 228, 229, 232, 232, 233, 235, 
+                                               236, 237, 238, 238, 239, 243, 248, 250, 251, 252, 
+                                               252, 253, 254, 257, 257, 258, 258, 259, 262, 262, 
+                                               264, 271, 272, 273, 274, 275, 275, 276, 281, 282, 
+                                               283, 284, 294, 295, 296, 299, 300, 301, 301, 307, 
+                                               308, 311, 313, 313, 319, 319, 319, 323, 341, 347, 
+                                               350, 352, 354, 354, 355, 356, 356, 357, 357, 360, 
+                                               360, 362, 363, 364, 365, 372, 382, 385, 386, 387, 
+                                               389, 391, 393, 394, 399, 406, 409, 409, 411, 412, 
+                                               412, 422, 424, 427, 428, 429, 433, 435, 437, 441, 
+                                               441, 442, 443, 443, 444, 444, 445, 445, 446, 448, 
+                                               449, 451, 452, 453, 453, 454, 457, 457, 459, 460, 
+                                               460, 463, 464, 464, 469, 470, 471, 472, 476, 478, 
+                                               478, 482, 483, 483, 484, 486, 486, 487, 488, 488, 
+                                               488, 493, 493, 495, 496, 496, 497, 497, 499, 505, 
+                                               506, 506, 513, 514, 515, 517, 518, 529, 530, 530, 
+                                               531, 532, 532, 533, 538, 538, 540, 544, 544, 546, 
+                                               551, 553, 561, 562, 562, 562, 569, 571, 578, 579, 
+                                               580, 580, 586, 586, 589, 594, 595, 595, 596, 596, 
+                                               597, 598, 599, 599, 601, 601, 603, 605, 611, 612, 
+                                               613, 613, 614, 615, 615, 616, 618, 618, 619, 621, 
+                                               624, 630, 632, 633, 635, 638, 640, 641, 644, 646, 
+                                               649, 652, 653, 653, 654, 655, 657, 658, 661, 666, 
+                                               675, 680, 681, 684, 686, 686, 687, 692, 696, 702, 
+                                               704, 713, 713, 720, 725, 730
+                              their |    38x | 11, 36, 50, 51, 52, 53, 57, 58, 72, 78, 
+                                               79, 85, 93, 184, 188, 189, 192, 194, 214, 239, 
+                                               240, 241, 243, 244, 245, 258, 263, 265, 272, 273, 
+                                               276, 277, 277, 277, 314, 316, 348, 358
+                               them |    16x | 12, 36, 67, 72, 78, 102, 137, 138, 179, 194, 
+                                               259, 275, 279, 325, 346, 356
+                         themselves |     4x | 54, 197, 228, 264
+                               then |     1x | 195
+                             thence |     1x | 205
+                              there |    10x | 83, 91, 94, 95, 98, 155, 324, 344, 433, 436
+                            thereby |     3x | 250, 300, 353
+                          therefore |    10x | 59, 99, 120, 129, 134, 148, 158, 231, 304, 323
+                              these |    10x | 50, 60, 91, 133, 188, 323, 350, 386, 570, 690
+                               they |    30x | 47, 52, 80, 104, 105, 105, 106, 107, 114, 114, 
+                                               149, 196, 215, 222, 224, 225, 227, 227, 266, 272, 
+                                               277, 278, 295, 342, 350, 351, 353, 397, 571, 639
+                            thieves |     1x | 53
+                              thing |     1x | 246
+                             things |     3x | 342, 434, 436
+                              think |     6x | 56, 195, 232, 298, 303, 351
+                            thirdly |     1x | 248
+                             thirty |     2x | 92, 715
+                               this |    73x | 3, 6, 22, 46, 56, 70, 90, 95, 99, 114, 
+                                               148, 157, 176, 182, 183, 203, 213, 261, 269, 288, 
+                                               291, 299, 300, 302, 329, 332, 345, 351, 361, 374, 
+                                               376, 377, 389, 394, 395, 407, 407, 410, 413, 420, 
+                                               422, 424, 428, 433, 435, 437, 452, 453, 454, 458, 
+                                               460, 462, 476, 479, 497, 500, 500, 503, 504, 509, 
+                                               533, 555, 560, 582, 587, 593, 606, 612, 613, 616, 
+                                               621, 625, 729
+                              those |     8x | 46, 67, 84, 96, 172, 346, 349, 585
+                             though |     1x | 321
+                           thoughts |     4x | 70, 120, 220, 328
+                           thousand |    15x | 91, 93, 96, 96, 98, 130, 130, 135, 248, 251, 
+                                               282, 291, 294, 296, 343
+                          thousands |     1x | 81
+                              three |     4x | 48, 115, 115, 157
+                            thrifty |     1x | 172
+                            through |     5x | 46, 137, 354, 488, 494
+                         throughout |     3x | 152, 344, 663
+                               thus |     3x | 167, 228, 721
+                               till |     3x | 105, 169, 324
+                               time |     5x | 51, 107, 208, 227, 276
+                              times |     2x | 118, 172
+                             tithes |     1x | 241
+                              title |     2x | 9, 150
+                                 to |   188x | 12, 36, 46, 50, 51, 51, 53, 54, 62, 64, 
+                                               67, 70, 77, 80, 80, 86, 93, 109, 114, 116, 
+                                               116, 121, 129, 131, 132, 135, 136, 137, 138, 145, 
+                                               150, 150, 157, 163, 164, 167, 167, 176, 182, 187, 
+                                               188, 190, 191, 194, 195, 196, 198, 203, 205, 207, 
+                                               207, 207, 209, 210, 214, 220, 220, 224, 226, 227, 
+                                               228, 229, 231, 238, 238, 239, 240, 241, 244, 244, 
+                                               252, 261, 262, 263, 266, 266, 269, 272, 273, 275, 
+                                               278, 278, 286, 301, 304, 310, 314, 315, 318, 319, 
+                                               320, 321, 323, 325, 327, 333, 335, 337, 340, 341, 
+                                               342, 347, 350, 352, 356, 361, 364, 364, 389, 390, 
+                                               399, 409, 412, 421, 423, 426, 427, 429, 433, 438, 
+                                               446, 448, 450, 460, 467, 469, 470, 484, 485, 496, 
+                                               506, 509, 511, 515, 521, 526, 531, 532, 533, 533, 
+                                               536, 538, 539, 544, 545, 547, 552, 558, 568, 572, 
+                                               583, 588, 595, 598, 600, 600, 600, 603, 606, 607, 
+                                               613, 614, 618, 625, 626, 638, 639, 641, 642, 644, 
+                                               657, 658, 665, 675, 679, 683, 683, 686, 689, 691, 
+                                               698, 707, 730, 730, 731, 731, 732, 732
+                               told |     2x | 153, 206
+                          tolerably |     1x | 145
+                                too |     5x | 85, 231, 279, 285, 333
+                         topinamboo |     1x | 312
+                              tough |     1x | 193
+                           towardly |     1x | 105
+                            towards |     2x | 271, 316
+                               town |     2x | 46, 213
+                              trade |     2x | 355, 363
+                          trademark |    10x | 391, 392, 399, 431, 489, 532, 562, 581, 587, 619
+                trademark/copyright |     1x | 423
+                         transcribe |     1x | 568
+                      transcription |     1x | 573
+                             travel |     1x | 47
+                          treatment |     1x | 701
+                            trouble |     1x | 331
+                               true |     2x | 73, 181
+                               turn |     2x | 52, 116
+                             turned |     1x | 70
+                               twas |     1x | 300
+                             twelve |     2x | 113, 186
+                             twenty |     5x | 98, 130, 130, 205, 294
+                                two |     8x | 75, 91, 110, 139, 163, 249, 341, 346
+                              types |     1x | 611
+                                u.s |     3x | 659, 702, 720
+                              under |    10x | 5, 94, 100, 110, 186, 478, 533, 582, 587, 653
+                         understand |     1x | 421
+                        understands |     1x | 265
+                   unenforceability |     1x | 615
+                            uniform |     1x | 688
+                              unite |     1x | 318
+                             united |    10x | 386, 387, 444, 445, 446, 459, 464, 484, 687, 702
+                           unjustly |     1x | 199
+                            unknown |     1x | 246
+                             unless |     5x | 299, 393, 467, 523, 721
+                             unlink |     1x | 499
+                        unsolicited |     1x | 697
+                                 up |     7x | 52, 62, 104, 335, 510, 665, 689
+                            updated |     1x | 382
+                               upon |    15x | 70, 78, 107, 144, 183, 199, 222, 265, 304, 319, 
+                                               329, 337, 358, 516, 678
+                            upwards |     1x | 249
+                              urged |     1x | 299
+                                 us |     5x | 85, 159, 284, 319, 698
+                                use |    12x | 3, 212, 389, 395, 407, 417, 476, 488, 493, 530, 
+                                               531, 547
+                               used |     3x | 392, 432, 513
+                             useful |     1x | 61
+                            useless |     1x | 343
+                               user |     3x | 515, 542, 545
+                              using |     5x | 305, 410, 420, 424, 530
+                              usual |     1x | 156
+                            usually |     1x | 90
+                                 ut |     1x | 664
+                            utterly |     3x | 101, 307, 328
+                               vain |     1x | 328
+                           valuable |     1x | 243
+                              value |     4x | 75, 76, 118, 264
+                            vanilla |     2x | 513, 517
+                             vanity |     1x | 309
+                            variety |     1x | 633
+                            various |     1x | 377
+                               vast |     1x | 218
+                               vein |     1x | 309
+                            venison |     1x | 185
+                             vermin |     1x | 223
+                            version |     1x | 513
+                               very |    11x | 59, 64, 104, 123, 142, 148, 181, 199, 222, 313, 
+                                               395
+                             viewed |     1x | 473
+                            viewing |     1x | 521
+                           vintners |     1x | 262
+                           violates |     1x | 612
+                          violently |     1x | 337
+                            virtues |     1x | 181
+                              virus |     1x | 575
+                          visionary |     1x | 328
+                              visit |     2x | 693, 707
+                               void |     1x | 616
+                          voluntary |     1x | 84
+                          volunteer |     3x | 27, 380, 716
+                         volunteers |     6x | 567, 621, 635, 638, 638, 662
+                               walk |     1x | 46
+                              walks |     1x | 636
+                               want |     5x | 53, 185, 188, 226, 355
+                             wanted |     1x | 284
+                            wanting |     2x | 79, 178
+                         warranties |     3x | 607, 608, 611
+                           warranty |     2x | 578, 585
+                                was |     8x | 182, 192, 204, 209, 210, 303, 314, 642
+                                way |     3x | 285, 411, 432
+                               ways |     1x | 706
+                                 we |    19x | 102, 103, 132, 153, 177, 179, 236, 274, 311, 331, 
+                                               446, 449, 690, 691, 695, 695, 696, 700, 721
+                            wearied |     1x | 327
+                            weather |     1x | 357
+                                web |     6x | 514, 646, 666, 704, 725, 729
+                           weddings |     1x | 293
+                              weigh |     1x | 144
+                            weighed |     1x | 71
+                               well |     8x | 61, 124, 185, 201, 222, 233, 237, 286
+                               were |     3x | 212, 272, 313
+                               west |     1x | 664
+                               what |     3x | 220, 306, 458
+                         whatsoever |     2x | 4, 477
+                               when |     8x | 47, 114, 140, 166, 206, 272, 278, 455
+                           whenever |     1x | 471
+                              where |     6x | 105, 262, 295, 457, 691, 695
+                            whereas |     1x | 248
+                            whereby |     1x | 331
+                            wherein |     1x | 311
+                            whereof |     1x | 131
+                            whether |     2x | 125, 351
+                              which |    30x | 75, 87, 92, 100, 107, 116, 120, 132, 161, 165, 
+                                               173, 199, 215, 232, 244, 269, 275, 285, 286, 329, 
+                                               334, 338, 364, 471, 472, 535, 571, 624, 720, 725
+                              while |     1x | 695
+                                who |    27x | 46, 52, 66, 67, 93, 97, 109, 149, 172, 205, 
+                                               209, 213, 219, 237, 240, 253, 264, 265, 292, 313, 
+                                               317, 346, 348, 349, 432, 542, 697
+                            whoever |     1x | 59
+                              whole |     4x | 66, 286, 335, 345
+                          wholesome |     1x | 125
+                             wholly |     1x | 329
+                               whom |     2x | 236, 429
+                              whose |     4x | 92, 97, 181, 345
+                               wide |     1x | 678
+                             widest |     2x | 633, 681
+                               wife |     1x | 365
+                               will |    43x | 83, 95, 115, 120, 126, 134, 139, 140, 141, 144, 
+                                               148, 152, 156, 158, 165, 167, 168, 173, 177, 215, 
+                                               243, 250, 253, 258, 262, 266, 286, 295, 298, 299, 
+                                               302, 324, 332, 341, 342, 350, 377, 382, 383, 449, 
+                                               495, 587, 640
+                             winter |     1x | 142
+                               wise |     2x | 269, 338
+                               wish |     1x | 558
+                               with |    59x | 3, 6, 48, 74, 141, 167, 189, 195, 200, 236, 
+                                               238, 327, 348, 355, 394, 398, 411, 412, 413, 432, 
+                                               434, 435, 436, 451, 452, 453, 454, 455, 458, 469, 
+                                               472, 476, 479, 483, 486, 486, 487, 493, 494, 496, 
+                                               501, 505, 523, 550, 555, 596, 597, 606, 621, 621, 
+                                               632, 638, 684, 686, 690, 698, 715, 716, 722
+                             within |     5x | 97, 535, 543, 552, 593
+                            without |    12x | 213, 214, 335, 355, 387, 388, 435, 455, 484, 504, 
+                                               602, 678
+                              wives |     3x | 92, 276, 348
+                              women |     4x | 85, 97, 275, 309
+                               word |     1x | 511
+                               work |    51x | 50, 53, 169, 188, 225, 361, 407, 410, 411, 421, 
+                                               427, 432, 445, 448, 453, 454, 458, 462, 463, 464, 
+                                               471, 471, 481, 483, 485, 487, 488, 492, 497, 500, 
+                                               501, 501, 504, 504, 509, 512, 517, 551, 552, 553, 
+                                               559, 582, 593, 595, 596, 598, 599, 601, 606, 626, 
+                                               627
+                              works |    32x | 385, 386, 390, 396, 410, 418, 425, 434, 437, 439, 
+                                               443, 443, 448, 450, 451, 462, 496, 522, 526, 530, 
+                                               546, 548, 556, 559, 569, 571, 620, 622, 633, 680, 
+                                               711, 714
+                              world |     1x | 301
+                              worse |     1x | 216
+                             worthy |     1x | 181
+                              would |    18x | 61, 87, 164, 194, 195, 196, 216, 235, 261, 269, 
+                                               271, 276, 291, 294, 318, 335, 345, 351
+                            writing |     3x | 543, 560, 602
+                            written |     3x | 595, 597, 691
+                  www.gutenberg.org |     3x | 6, 479, 514
+                               year |     9x | 74, 77, 98, 124, 136, 145, 152, 259, 352
+                             yearly |     2x | 236, 286
+                              years |     9x | 70, 105, 113, 186, 205, 249, 327, 365, 715
+                                yet |     1x | 320
+                              yield |     1x | 115
+                                you |    69x | 4, 387, 392, 393, 393, 395, 407, 412, 421, 421, 
+                                               423, 424, 426, 427, 428, 429, 434, 436, 437, 445, 
+                                               446, 449, 453, 455, 457, 458, 459, 467, 477, 485, 
+                                               487, 509, 511, 515, 523, 525, 529, 529, 531, 535, 
+                                               542, 543, 545, 550, 552, 555, 558, 560, 583, 584, 
+                                               584, 586, 588, 589, 592, 593, 594, 595, 595, 596, 
+                                               597, 599, 600, 600, 602, 606, 618, 624, 627
+                              young |     5x | 124, 185, 206, 213, 224
+                           youngest |     1x | 365
+                               your |     9x | 425, 460, 493, 531, 536, 576, 597, 645, 659
+\\end of file\\
